@@ -29,6 +29,10 @@ _ This is the model used to classify the attributes on the detected head
 3. Connect_2_models
 
 _ This is the code used to connect 2 models (Yolov8 and ResNet50) 
+
+4. best/last.pt
+
+_ The file contains the best/last epoch of the training process
     
 ## ⚙️ Installation
 
